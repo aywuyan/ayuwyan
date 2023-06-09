@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on AYwuyan&#39;s blog</title>
+    <link>https://aywuyan.github.io/en/posts/</link>
+    <description>Recent content in Posts on AYwuyan&#39;s blog</description>
+    <image>
+      <title>AYwuyan&#39;s blog</title>
+      <url>https://aywuyan.github.io/papermod-cover.png</url>
+      <link>https://aywuyan.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jun 2023 11:05:17 +0800</lastBuildDate><atom:link href="https://aywuyan.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>https://aywuyan.github.io/en/posts/post1/</link>
+      <pubDate>Fri, 09 Jun 2023 11:05:17 +0800</pubDate>
+      
+      <guid>https://aywuyan.github.io/en/posts/post1/</guid>
+      <description>English Blog Post This is an example of an English blog post with a code block.
+def hello_world(): print(&amp;#34;Hello, world!&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
