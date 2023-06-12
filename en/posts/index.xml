@@ -11,7 +11,33 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Jun 2023 11:05:17 +0800</lastBuildDate><atom:link href="https://aywuyan.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Jun 2023 16:13:32 +0800</lastBuildDate><atom:link href="https://aywuyan.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>https://aywuyan.github.io/en/posts/post2/</link>
+      <pubDate>Sat, 10 Jun 2023 16:13:32 +0800</pubDate>
+      
+      <guid>https://aywuyan.github.io/en/posts/post2/</guid>
+      <description>这是一个markdown测试标题 这是一个markdown测试标题 这是一个markdown测试标题 这是一个markdown测试标题 这是一个markdown测试标题 段落测试 这是一个markdown段落测试
+这是一个markdown段落测试
+换行测试 这是一个markdown 换行测试
+强调测试 这是一个markdown粗体测试
+这是一个markdown斜体测试
+这是一个markdown粗斜体测试
+引用测试 这是一个markdown引用测试 这是一个markdown嵌套引用测试 有序、无序和代码块测试 这是一个markdown有序列表测试
+这是一个markdown有序列表测试
+这是一个markdown有序列表测试
+这是一个markdown无序列表测试
+这是一个markdown无序列表测试
+&amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;代码块测试&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; 这是一个markdown无序列表测试
+显示为代码测试 nano 反`nano`转义
+链接测试 这是一个链接 Markdown语法。 这是一个链接测试链接 https://aywuyan.github.com aywuyan@gmail.com📫
+将链接转换为代码测试链接
+引用测试 请访问我的博客：我的博客
+图片语法测试 转义字符语法 * Without the backslash, this would be a bullet in an unordered list.
+表格 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 脚注 Here&amp;rsquo;s a simple footnote,1 and here&amp;rsquo;s a longer one.</description>
+    </item>
+    
     <item>
       <title>Post1</title>
       <link>https://aywuyan.github.io/en/posts/post1/</link>
