@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<follow_challenge>
+    <feedId>74715939944341504</feedId>
+    <userId>71245727771028480</userId>
+</follow_challenge>
   <channel>
     <title>Tags on AYwuyan&#39;s blog</title>
     <link>https://aywuyan.github.io/en/tags/</link>
